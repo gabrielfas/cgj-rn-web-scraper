@@ -1,2 +1,2 @@
 # cgj-rn-web-scraper
-Web scraper para retornar informações sobre as secretarias das comarcas do TJRN
+Web scraper para retornar informações sobre as secretarias do TJRN
