@@ -22,7 +22,7 @@ Os arquivos se encontrarão na pasta ```arquivos```.
 
 ## Tecnologias utilizadas
 
-Python 3.6
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[Requests](https://requests.readthedocs.io/en/master/)
-[Pandas](https://pandas.pydata.org/)
+- Python 3.6
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Requests](https://requests.readthedocs.io/en/master/)
+- [Pandas](https://pandas.pydata.org/)
